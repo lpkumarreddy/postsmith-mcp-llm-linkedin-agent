@@ -115,6 +115,7 @@ Image link: https://media-content.ccbp.in/ccbp_prod/media/misc/mcp_megaworkshop.
 ## ✅ Confirm Your Post on LinkedIn
 
 Check your LinkedIn profile — your image + text post is now live and sharing your story with the world.
+<img width="1909" height="979" alt="Screenshot 2025-07-29 204437" src="https://github.com/user-attachments/assets/45aafd46-5cb5-4871-b9d8-e93416e9533e" />
 
 ---
 
