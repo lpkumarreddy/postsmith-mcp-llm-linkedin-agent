@@ -1,5 +1,3 @@
-Absolutely. Here's your README for **📸 LinkedIn Post Creator** in the exact requested format:
-
 ---
 
 # 📸 MCP + LinkedIn: AI-Powered Post Creation via Cursor IDE
